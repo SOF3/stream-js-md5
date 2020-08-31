@@ -1,5 +1,5 @@
 {
-  "name": "stream-md5",
+  "name": "@sofe/stream-md5",
   "version": "0.0.2",
   "description": "MD5 implementation in JS that allows progressive hashing and is binary safe",
   "main": "md5.js",
